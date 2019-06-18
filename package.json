@@ -1,0 +1,17 @@
+{
+  "name": "monash-bootcamp-content",
+  "version": "0.0.1",
+  "description": "Tool for managing Monash Coding Bootcamp content",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "fs-extra": "^8.0.1",
+    "klaw": "^3.0.0",
+    "prompts": "^2.1.0",
+    "ramda": "^0.26.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
